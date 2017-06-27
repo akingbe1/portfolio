@@ -15,6 +15,10 @@ body {
 	width:100%;
 }
 
+.padding {
+	padding:80px 0;
+}
+
 
 .margin {
 	margin: 30px 0;
@@ -100,5 +104,10 @@ hr.star-light:after {
 
 #work .portfolio-item img:hover {
 	
+
+}
+
+#contact hr.star-light:after {
+	color: #e67e22;
 
 }
